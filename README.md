@@ -1,126 +1,143 @@
-# Bank Exam Syllabus & Preparation Blueprint
+# 🏦 Bank Exam Syllabus & Strategy Guide (SBI / IBPS PO & Clerk)
 
-A structured reference guide covering the complete syllabus, high-yield core topics, and Prelims question weightage benchmarks for major Indian banking exams (**SBI PO**, **SBI Clerk**, **IBPS PO**, and **IBPS Clerk**).
+A structured syllabus mind map, Prelims question-weightage breakdown, and high-leverage preparation roadmap covering **Reasoning**, **Quantitative Aptitude**, **English Language**, and **General / Banking / Current Affairs (GA/BA/CA)**.
 
-## High-Impact Core Topics (Prelims Weightage)
+---
 
-Focusing on the highest-leverage pillars across Reasoning, Quantitative Aptitude, and English drives the majority of Prelims marks:
+## 📊 Prelims High-Impact Topic Benchmarks (SBI PO vs. SBI Clerk)
 
-| Section | High-Impact Core | SBI PO Prelims | SBI Clerk Prelims | 
-| ----- | ----- | ----- | ----- | 
-| **Reasoning** | **Puzzles & Seating Arrangements** | **25+ / 30** | **15–20 / 30** | 
-| **Quants** | **Calculations** (Simplification, Approximation, Series, Quadratic) | — | **\~15** | 
-| **Quants** | **Percentage, Ratios & Averages** (Core Arithmetic) | **3–4** | **3–4** | 
-| **Quants** | **Data Interpretation (DI)** | **15+** | **10–15** | 
-| **English** | **Reading** (RC, Cloze Test, Para Jumbles, Inference) | **15–20 / 40** | **15–18 / 35** | 
+Focusing on the highest-weightage core topics gives you the maximum return on your study time:
 
-## 1. Reasoning Ability
+| Section | 🎯 High-Impact Core | 🏛️ SBI PO Prelims | 🧾 SBI Clerk Prelims |
+| :--- | :--- | :--- | :--- |
+| **🧩 Reasoning** | **Puzzles** | **25+ / 30** | **15–20 / 30** |
+| **🔢 Quants** | **Calculations (Speed Maths)** | Variable / Integrated | **~15** |
+| **🔢 Quants** | **Percentage, Ratios, Averages** | **3–4** | **3–4** |
+| **🔢 Quants** | **Data Interpretation (DI)** | **15+** | **10–15** |
+| **📖 English** | **Reading (RC, Cloze, Para Jumbles)** | **15–20 / 40** | **15–18 / 35** |
 
-### A. Puzzles & Seating Arrangements *(Highest Weightage)*
+---
 
-1. **Linear Arrangements** (single/double row, facing north/south, uncertain number of people)
+## 🧩 1. Reasoning Ability
 
-2. **Circular / Square / Rectangular / Triangular Arrangements** (inward/outward facing, corners vs. sides)
+Reasoning is split into **Puzzles & Seating Arrangements** (the highest-weightage pillar) and **Miscellaneous** topics.
 
-3. **Floor Puzzles** (multi-storey buildings, vacant floors, mixed variables)
+### 🏆 Puzzles & Seating Arrangements *(Most Important)*
+1. 📏 **Linear Arrangements** *(single/double row, facing North/South, uncertain number of people)*
+2. ⭕ **Circular / Square / Rectangular / Triangular Arrangements** *(inward/outward facing, corners vs. sides)*
+3. 🏢 **Floor Puzzles** *(multi-storey buildings, vacant floors, mixed variables)*
+4. 📦 **Box Puzzles** *(stacked boxes, items/colors/weights)*
+5. 📅 **Scheduling Puzzles** *(months, dates, days of the week, years/ages)*
+6. 📋 **Tabular Puzzles** *(grid/matrix matching multiple attributes)*
+7. 👔 **Designation-Based Puzzles** *(hierarchical corporate/banking ranks)*
+8. 🔗 **Sequencing Puzzles** *(ordered events, tasks, or priorities)*
+9. 🏠 **Flat + Floor Puzzles** *(floors combined with multiple flats per floor)*
 
-4. **Box Puzzles** (stacked boxes with items/colors/weights)
-
-5. **Scheduling Puzzles** (months, dates, days of the week, years/ages)
-
-6. **Tabular Puzzles** (matrix matching multiple attributes like city, profession, brand)
-
-7. **Designation-Based Puzzles** (hierarchical ranks such as GM, AGM, Manager, Clerk)
-
-8. **Sequencing Puzzles** (ordered events, tasks, or priorities)
-
-9. **Flat + Floor Puzzles** (floors combined with multiple flats per floor, e.g., Flat A & Flat B)
-
-### B. Miscellaneous Topics
-
+### 🧠 Miscellaneous Topics
 * **Prelims Core:**
-
-  1. **Alphabets** (letter series, word formation, alphabetical operations)
-
-  2. **Coding–Decoding** (letter/number/symbol/new-pattern coding)
-
-  3. **Blood Relations** (family tree, coded relations)
-
-  4. **Direction & Distance** (shortest path, turns, shadow/angle logic)
-
-  5. **Inequality** (direct and coded comparisons)
-
-  6. **Syllogism** (standard, *only/only a few*, possibility, reverse syllogism)
-
-  7. **Order & Ranking** (left/right positions, total strength, comparison)
-
+  1. 🔤 **Alphabets** *(letter series, word formation, alphabetical operations)*
+  2. 🔐 **Coding–Decoding** *(letter, number, symbol, and new-pattern coding)*
+  3. 👨‍👩‍👧‍👦 **Blood Relations** *(family trees, coded relations)*
+  4. 🧭 **Direction & Distance** *(shortest path, turns, shadow/angle logic)*
+  5. ⚖️ **Inequality** *(direct and coded comparisons)*
+  6. ⭕ **Syllogism** *(standard, "only / only a few", possibility, reverse syllogism)*
+  7. 🏅 **Order & Ranking** *(position from ends, total strength, comparison)*
 * **Mains Focus:**
-  8. **Input–Output** (machine shifting/arrangement rules, step-wise logic)
-  9. **Analytical / Logical Reasoning** (statement & assumption, conclusion, inference, course of action, cause & effect)
-  10. **Data Sufficiency** (evaluating whether given statements suffice to answer a question)
+  8. ⚙️ **Input–Output** *(machine shifting/arrangement rules)*
+  9. 💡 **Analytical / Logical Reasoning** *(assumptions, inferences, conclusions, course of action, cause & effect)*
+  10. ❓ **Data Sufficiency** *(evaluating statement sufficiency)*
 
-## 2. Quantitative Aptitude
+---
 
-### A. Speed Maths
+## 🔢 2. Quantitative Aptitude (Quants)
 
-1. **Simplification** (BODMAS, fractions, decimals, surds & indices)
+Quant is organized into three pillars: **Speed Maths**, **Arithmetic**, and **Data Interpretation**.
 
-2. **Approximation** (rounding off values for fast estimation)
+### ⚡ Speed Maths
+1. ➕ **Simplification** *(BODMAS, fractions, decimals, surds & indices)*
+2. 🎯 **Approximation** *(rounding values for rapid estimation)*
+3. 🔢 **Series** *(missing number & wrong number series)*
+4. 📈 **Quadratic Equation** *(root comparison of $x$ and $y$, sign rules)*
 
-3. **Number Series** (missing number series, wrong number series)
+### 🧮 Arithmetic (15 Core Chapters)
+1. ⚖️ **Ratio & Proportion** *(foundation for DI and word problems)*
+2. 💯 **Percentage** *(fraction equivalents, successive changes)*
+3. 🏷️ **Profit & Loss** *(CP, SP, MP, discounts, dishonest dealer)*
+4. 💰 **Simple & Compound Interest (S.I & C.I)** *(rate/time differences, installments)*
+5. 📊 **Average** *(weighted average, replacements)*
+6. 🎂 **Age** *(ratio-based age problems)*
+7. 🧪 **Mixture & Alligation** *(alligation rule, replacement)*
+8. 🛠️ **Time & Work** *(man-days, efficiency, alternating work)*
+9. 🚆 **Speed, Time & Distance** *(relative speed, trains, meeting points)*
+10. 🤝 **Partnership** *(capital $\times$ time ratios)*
+11. 🎲 **Probability** *(coins, dice, cards, balls)*
+12. 🔀 **Permutation & Combination** *(arrangements & selections)*
+13. 🚤 **Boat & Stream** *(upstream/downstream speeds)*
+14. 🚰 **Pipe & Cistern** *(inlet/outlet pipes, leakages)*
+15. 📐 **Mensuration** *(2D areas/perimeters & 3D volumes/surface areas)*
 
-4. **Quadratic Equations** (root comparison of $x$ and $y$, sign rules, factorization shortcuts)
+### 📉 Data Interpretation (DI)
+1. 📋 **Tabular DI**
+2. 📈 **Line Graph**
+3. 📊 **Bar Graph** *(single, stacked, grouped)*
+4. 🥧 **Pie Chart** *(percentage & degree distributions)*
+5. 📝 **Caselet DI** *(paragraph-based data extraction)*
+6. 🔀 **Mixed Graphs** *(combination of two charts/tables)*
+7. 🧩 **Missing DI** *(deducing missing values from totals/clues)*
 
-### B. Arithmetic (15 Core Chapters)
+---
 
- 1. **Ratio & Proportion** *(foundational for arithmetic and DI)*
+## 📖 3. English Language
 
- 2. **Percentage** *(foundational for arithmetic and DI)*
+Bank English prioritizes **comprehension, tone, and contextual usage** over rote rule memorization.
 
- 3. **Profit & Loss** (CP, SP, MP, discount, dishonest dealer)
+### 📚 Reading *(Highest Weightage)*
+1. 📰 **Reading Comprehension (Passage)** *(main idea, inference, tone, title, vocab-in-context)*
+2. 🔍 **Inference-Based Questions** *(logical deduction from text)*
+3. 🔀 **Para Jumbles** *(arranging scrambled sentences coherently)*
+4. 🔄 **Sentence Rearrangement** *(swapping/ordering sentence segments)*
+5. 🧩 **Cloze Test** *(contextual blank filling)*
 
- 4. **Simple & Compound Interest (S.I & C.I)** (rate/time differences, installments)
+### 📝 Grammar
+1. 📌 **Noun**
+2. 👤 **Pronoun**
+3. 🎨 **Adjective**
+4. ⚡ **Adverb**
+5. 📍 **Preposition**
+6. 🔗 **Conjunction**
+7. 🅰️ **Article**
+8. 🏃 **Verb**
+9. ⏳ **Tense**
+10. 🤝 **Subject–Verb Agreement**
 
- 5. **Average** (weighted average, replacements, additions)
+### 🗣️ Vocabulary *(Contextual Usage)*
+1. 🔄 **Synonyms**
+2. ↔️ **Antonyms**
+3. 💬 **Idioms**
+4. 🗨️ **Phrases**
+5. 🚀 **Phrasal Verbs**
 
- 6. **Problems on Ages**
+---
 
- 7. **Mixture & Alligation** (alligation rule, replacement in mixtures)
+## 🌍 4. GA / BA / CA *(Mains Game-Changer)*
 
- 8. **Time & Work** (man-days, efficiency, alternating work)
+General Awareness, Banking Awareness, and Current Affairs appear in the **Mains** stage and offer high scoring potential with zero calculation time:
 
- 9. **Speed, Time & Distance** (relative speed, trains, meeting points)
+1. 🏛️ **National Financial Institutions:** RBI, SEBI, IRDAI, FSDC, NABARD, SIDBI, etc.
+2. 🌐 **International Organizations:** IMF, World Bank, ADB, UN, etc.
+3. 🔤 **Abbreviations & Economic Terminologies**
+4. 🏦 **Banking Terms** *(NPAs, Basel norms, KYC, negotiable instruments, etc.)*
+5. 📜 **Important Government Schemes** *(especially related to capital & money markets, financial inclusion)*
+6. 🗞️ **Current Affairs (Last 6 Months):** National & international news, RBI circulars, summits, indices, appointments, Union Budget & Economic Survey
+7. 🇮🇳 **Overview of the Indian Financial System**
+8. 🕰️ **History of the Indian Banking System**
+9. 📉 **Recent Credit & Monetary Policies** *(RBI MPC rates: Repo, Reverse Repo, CRR, SLR, SDF, MSF)*
 
-10. **Partnership** (capital $\times$ time ratios)
+---
 
-11. **Probability** (coins, dice, cards, balls/marbles)
+## 🚀 Daily High-Yield Study Blueprint
 
-12. **Permutation & Combination** (arrangements, selections, committees)
-
-13. **Boat & Stream** (upstream/downstream speed, still water, current speed)
-
-14. **Pipe & Cistern** (inlet/outlet pipes, leakages)
-
-15. **Mensuration** (2D areas/perimeters and 3D surface areas/volumes)
-
-### C. Data Interpretation (DI)
-
-1. **Tabular DI**
-
-2. **Line Graph**
-
-3. **Bar Graph** (single, stacked, grouped)
-
-4. **Pie Chart** (percentage/degree distribution)
-
-5. **Caselet DI** (paragraph-based data extraction)
-
-6. **Mixed Graphs** (two chart types combined, e.g., Bar + Line or Pie + Table)
-
-7. **Missing DI** (deducing missing entries from totals/percentages/clues)
-
-## 3. English Language
-
-### A. Reading *(Highest Weightage)*
-
-1. **Reading Comprehension (Passage)** (factual, main idea, tone
+* 🧩 **Puzzles:** Solve **3–4 timed puzzle sets** daily; practice skipping stuck sets within 2–3 minutes during mocks.
+* ⚡ **Quant Speed & Core:** Spend **15–20 minutes** daily on tables, squares/cubes, and Speed Maths, followed by **1–2 DI sets** grounded in **Percentage, Ratios, and Averages**.
+* 📰 **English Reading:** Read **1–2 editorials** daily and practice **1 RC + 1 Cloze Test/Para Jumble** to build reading speed and contextual vocabulary.
+* 🗞️ **GA/CA Consistency:** Cover **daily current affairs** with weekly/monthly revisions focusing on banking, finance, and RBI updates.
